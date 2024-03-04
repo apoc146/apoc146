@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .glow {
-            color: #BAA892; /* Purdue gold */
-            text-shadow: 0 0 8px #BAA892; /* Glow effect using Purdue gold */
-        }
-    </style>
-</head>
-<body>
-
 <h2>Hey there, I'm Shivam! 👋</h2>
 
-<p>I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a <span class="glow">Master's student in Computer Science</span> at <span class="glow">Purdue University</span>, where I'm exploring the fascinating world of <span class="glow">Embodied AI</span> at the <span class="glow">CoRAL Lab</span>.</p>
-
-</body>
-</html>
+<p>I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a <span class="glow">Master's student in Computer Science</span> at <span style="color:#BAA892">Purdue University</span>, where I'm exploring the fascinating world of <span class="glow">Embodied AI</span> at the <span class="glow">CoRAL Lab</span>.</p>
 
 ### What I'm up to:
 - 🎓 MSCS @ Purdue University.
