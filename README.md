@@ -1,6 +1,19 @@
-## Hey there, I'm Shivam! 👋
+<style>
+    body {
+        background-color: #333; /* Dark background for contrast */
+        color: #fff; /* White text for readability */
+    }
+    .glow {
+        color: #BAA892; /* Purdue gold */
+        text-shadow: 0 0 8px #BAA892; /* Glow effect using Purdue gold */
+    }
+</style>
 
-I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics and AI. I am currently enriching my knowledge and skills as a Master's student in Computer Science at Purdue University, where I'm exploring the fascinating world of Embodied AI at the CoRAL Lab.
+
+
+## Hey there, I'm Shivam! 👋
+<p>I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a <span class="glow">Master's student in Computer Science</span> at <span class="glow">Purdue University</span>, where I'm exploring the fascinating world of Embodied AI at the CoRAL Lab.</p>
+
 
 ### What I'm up to:
 - 🎓 MSCS @ Purdue University.
