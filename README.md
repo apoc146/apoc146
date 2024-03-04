@@ -78,19 +78,19 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 ### 💼 Experience:
 
 <div style="display: flex; align-items: center;">
-  <strong>AI/Robotics Research</strong> @ 
+  <strong style="margin-right: 10px;">AI/Robotics Research</strong> @ 
   <a href="https://corallab.net">
     <img src="https://corallab.net/img/logo_final.svg" width="140" alt="CoRAL Lab"/>
   </a>
 </div>
 <div style="display: flex; align-items: center;">
-  <strong>Engineering</strong> @ 
+  <strong style="margin-right: 10px;">Engineering</strong> @ 
   <a href="https://www.zynga.com/">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/1024px-Zynga.svg.png" width="50" alt="Zynga"/>
   </a>
 </div>
 <div style="display: flex; align-items: center;">
-  <strong>Software Engg, Research</strong> @ 
+  <strong style="margin-right: 10px;">Software Engg, Research</strong> @ 
   <a href="https://www.nokia.com/thought-leadership/research/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia"/>
   </a>
