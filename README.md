@@ -9,7 +9,7 @@ Before this, I spent 3 wonderful years at **Zynga**, where I contributed to popu
 - 🎓 MSCS @ Purdue University.
 - 🤖 Exploring Embodied AI in robotics @ CoRAL Lab.
 - 🛠 Coding in C++ and Python, building intelligent systems.
-- 💬 `ping` me about **Backend Eng.**, **Deep Learning**, **Robotics**, **Software Eng**, **Dev Ops**.
+- 💬 `ping` me about **Backend Eng.**, **Machine Learning Eng.**, **Deep Learning**, **Robotics**, **Software Eng.**, **Dev Ops**.
 
 <!-- ### Skills:
 - Languages: `C++`, `Python`, `JavaScript`
