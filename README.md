@@ -55,20 +55,24 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 <!-- ### 🛠 Skills:
 - **Languages**: C++, Python, JavaScript
 - **Tools & Frameworks**: Docker, PyTorch, TensorFlow, Git, Jenkins -->
+
+
 ### 💼 Experience:
 
-<div>
-  <span style="vertical-align: middle;"><strong>AI/Robotics Research</strong> @ </span>
-  <a href="https://corallab.net"><img src="https://corallab.net/img/logo_final.svg" width="140" alt="CoRAL Lab" style="vertical-align: middle;"/></a>
-</div>
-<div>
-  <span style="vertical-align: middle;"><strong>Engineering</strong> @ </span>
-  <a href="https://www.zynga.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/1024px-Zynga.svg.png" width="50" alt="Zynga" style="vertical-align: middle;"/></a>
-</div>
-<div>
-  <span style="vertical-align: middle;"><strong>Software Engg, Research</strong> @ </span>
-  <a href="https://www.nokia.com/thought-leadership/research/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia" style="vertical-align: middle;"/></a>
-</div>
+<table>
+  <tr>
+    <td><strong>AI/Robotics Research</strong> @ </td>
+    <td><a href="https://corallab.net"><img src="https://corallab.net/img/logo_final.svg" width="140" alt="CoRAL Lab"/></a></td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong> @ </td>
+    <td><a href="https://www.zynga.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/1024px-Zynga.svg.png" width="50" alt="Zynga"/></a></td>
+  </tr>
+  <tr>
+    <td><strong>Software Engg, Research</strong> @ </td>
+    <td><a href="https://www.nokia.com/thought-leadership/research/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia"/></a></td>
+  </tr>
+</table>
 
 
 
