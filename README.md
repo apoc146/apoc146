@@ -120,8 +120,9 @@ I'm a Backend Engineer and AI Researcher with a keen focus on robotics and machi
 - Committed to contributing to open source and engaging with tech communities to share knowledge and collaborate on innovative projects. -->
 
 ### 🌱 What I'm Focused On:
-- Advancing my understanding and application of **Embodied AI** to develop systems that can interact with and learn from their environments in more human-like ways.
-- Continuously learning and adapting to new technologies and methodologies in the fast-evolving fields of AI and machine learning.
+- Software Eng. - Backend Eng. - Machine Learning Eng. - Applied AI - Robotics
+- Furthering my understanding and application of **Embodied AI** to develop systems that can interact with and learn from their environments in more human-like ways.
+
 
 
 
