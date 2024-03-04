@@ -62,6 +62,7 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
 
 
+
 <!-- ### 💼 Professional Experience:
 - **Graduate Researcher**, CoRAL Lab, Purdue University, US (April 2023–Present)
 - **Software Engineer**, Zynga (March 2020–June 2022)
