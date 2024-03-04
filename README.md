@@ -123,7 +123,6 @@ I'm a Backend Engineer and AI Researcher with a keen focus on robotics and machi
 - Software Eng. - Backend Eng. - Machine Learning Eng. - Applied AI - Robotics
 - Furthering my understanding and application of **Embodied AI** to develop systems that can interact with and learn from their environments in more human-like ways.
 
-
 ### 🤖 Personal Side:
-I love hiking and exploring the great outdoors. I'm also an avid reader, enjoy watching obscure indie movies, devouring podcasts, and exploring subgenres of rock and pop. In my spare time, I prefer solving easier problems, like figuring out the meaning of life. I wish it was 42? What's so special about 42 anyway?
+I love hiking and exploring the great outdoors. I'm also an avid reader, enjoy watching obscure indie movies, devouring podcasts, and exploring subgenres of rock and pop. In my spare time, I prefer solving easier problems, like [figuring out the meaning of life](https://www.youtube.com/watch?v=sctMPouTWiQ). I wish it was 42? What's so special about 42 anyway?
 
