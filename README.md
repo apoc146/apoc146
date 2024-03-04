@@ -1,6 +1,7 @@
-<h2>Hey there, I'm Shivam! 👋</h2>
+## Hey there, I'm Shivam! 👋
 
-<p>I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a <span class="glow">Master's student in Computer Science</span> at <span style="color:#BAA892">Purdue University</span>, where I'm exploring the fascinating world of <span class="glow">Embodied AI</span> at the <span class="glow">CoRAL Lab</span>.</p>
+I'm a <span style="color:red">Backend Engineer</span> and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a **Master's student in Computer Science** at **Purdue University**, where I'm exploring the fascinating world of **Embodied AI** at the **CoRAL Lab**.
+
 
 ### What I'm up to:
 - 🎓 MSCS @ Purdue University.
