@@ -2,12 +2,14 @@
 
 I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a **Master's student in Computer Science** at **Purdue University**, where I'm exploring the fascinating world of **Embodied AI** at the **CoRAL Lab**.
 
+Before this, I spent 3 wonderful years at **Zynga**, where I contributed to popular games like [FarmVille 2](https://www.facebook.com/FarmVille2/) and [CSR Racing](https://www.naturalmotion.com/game/csr-racing-2/), engineering systems to scale them to millions of users. From routing Percy on the farm to probabilistic prediction of outrage in live ops - I got my hands dirty in every aspect.
+
 
 ### What I'm up to:
 - 🎓 MSCS @ Purdue University.
 - 🤖 Exploring Embodied AI in robotics @ CoRAL Lab.
 - 🛠 Coding in C++ and Python, building intelligent systems.
-- 💬 `ping` me about **Backend Engg**, **Deep Learning**, **Robotics**, **Software Eng**.
+- 💬 `ping` me about **Backend Eng.**, **Deep Learning**, **Robotics**, **Software Eng**, **Dev Ops**.
 
 <!-- ### Skills:
 - Languages: `C++`, `Python`, `JavaScript`
@@ -73,30 +75,29 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 - **Languages**: C++, Python, JavaScript
 - **Tools & Frameworks**: Docker, PyTorch, TensorFlow, Git, Jenkins -->
 
-
+<br>
 
 ### 💼 Experience:
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; height: 30px;">
   <strong style="margin-right: 10px;">AI/Robotics Research</strong> @ 
-  <a href="https://corallab.net">
-    <img src="https://corallab.net/img/logo_final.svg" width="140" alt="CoRAL Lab"/>
+  <a href="https://corallab.net" style="display: flex; align-items: center;">
+    <img src="https://corallab.net/img/logo_final.svg" width="140" alt="CoRAL Lab" style="margin-right: 10px;"/>
   </a>
 </div>
-<div style="display: flex; align-items: center;">
-  <strong style="margin-right: 10px;">Engineering</strong> @ 
-  <a href="https://www.zynga.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/1024px-Zynga.svg.png" width="50" alt="Zynga"/>
+<div style="display: flex; align-items: center; height: 30px;">
+  <strong style="margin-right: 10px;">Engineering</strong>@   
+  <a href="https://www.zynga.com/" style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/1024px-Zynga.svg.png" width="40" alt="Zynga" style="margin-right: 10px;"/>
   </a>
 </div>
-<div style="display: flex; align-items: center;">
-  <strong style="margin-right: 10px;">Software Engg, Research</strong> @ 
-  <a href="https://www.nokia.com/thought-leadership/research/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia"/>
+<div style="display: flex; align-items: center; height: 30px;">
+  <strong style="margin-right: 10px;">Engineering & Research</strong> @ 
+  <a href="https://www.nokia.com/thought-leadership/research/" style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia" style="margin-right: 10px;"/>
   </a>
 </div>
-
-
+<br>
 
 <!-- 
 
