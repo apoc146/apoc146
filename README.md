@@ -124,9 +124,6 @@ I'm a Backend Engineer and AI Researcher with a keen focus on robotics and machi
 - Furthering my understanding and application of **Embodied AI** to develop systems that can interact with and learn from their environments in more human-like ways.
 
 
-
-
 ### 🤖 Personal Side:
-When I'm not coding or buried in research, I love hiking and exploring the great outdoors. I'm also a space enthusiast, avidly following the latest in space exploration and technology. Comics, especially from the DC Universe, and music from bands like Guns N' Roses and Metallica, are my go-to sources for relaxation and inspiration.
+I love hiking and exploring the great outdoors. I'm also an avid reader, enjoy watching obscure indie movies, devouring podcasts, and exploring subgenres of rock and pop. In my spare time, I prefer solving easier problems, like figuring out the meaning of life. I wish it was 42? What's so special about 42 anyway?
 
-Thank you for visiting my profile. Let's explore the possibilities and make a positive impact together!
