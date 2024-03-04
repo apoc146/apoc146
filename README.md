@@ -1,8 +1,8 @@
 ## Hey there, I'm Shivam! 👋
 
-I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a **Master's student in Computer Science** at **Purdue University**, where I'm exploring the fascinating world of **Embodied AI** at the **CoRAL Lab**.
+I'm a Backend Engineer and AI Researcher with a keen focus on SWE, Robotics, and AI. I am currently enriching my knowledge and skills as a **Master's student in Computer Science** at **Purdue University**. Here I'm exploring the fascinating world of **Embodied AI** at the **CoRAL Lab**.
 
-Before this, I spent 3 wonderful years at **Zynga**, where I contributed to popular games like [FarmVille 2](https://www.facebook.com/FarmVille2/) and [CSR Racing](https://www.naturalmotion.com/game/csr-racing-2/), engineering systems to scale them to millions of users. From routing Percy on the farm to probabilistic prediction of outrage in live ops - I got my hands dirty in every aspect.
+Before this, I spent 3 wonderful years at **Zynga**. I contributed to popular games like [FarmVille 2](https://www.facebook.com/FarmVille2/) and [CSR Racing](https://www.naturalmotion.com/game/csr-racing-2/), engineering systems to scale them to millions of users. From routing Percy on the farm to probabilistic prediction of outrage in live ops - I got my hands dirty in every aspect.
 
 
 ### What I'm up to:
