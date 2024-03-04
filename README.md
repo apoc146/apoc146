@@ -92,7 +92,7 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
   </a>
 </div>
 <div style="display: flex; align-items: center; height: 30px;">
-  <strong style="margin-right: 10px;">Engineering & Research</strong> @ 
+  <strong style="margin-right: 10px;">Research</strong> @ 
   <a href="https://www.nokia.com/thought-leadership/research/" style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Nokia_wordmark.svg" width="120" alt="Nokia" style="margin-right: 10px;"/>
   </a>
